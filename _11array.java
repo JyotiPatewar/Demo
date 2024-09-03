@@ -1,4 +1,4 @@
-//11. Remove the element at the second position in the array [18, 19, 20, 21].
+//11. Remove the element at the second position in the array [18, 19, 20, 21].–
 public class _11array {
     public static void main(String[] args) {
     int arr[]={18,19,20,21};
